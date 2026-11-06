@@ -1,0 +1,11 @@
+{
+  "name": "my-skills-market",
+  "owner": { "name": "LushieD" },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./plugins/my-skills",
+      "description": "My personal skills"
+    }
+  ]
+}
